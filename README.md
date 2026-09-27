@@ -163,3 +163,4 @@ score is multiplied by 1.5.
 
 References:
 C++ Full Course for free ⚡️ - https://youtu.be/-TkoO8Z07hI?si=FcZ6LgN8Spnrydq0
+I’m Making an Xbox Controller Work in C++ 🎮 | C++ Beginner Project - https://youtu.be/dTYoyI2wxbc?si=pfyrxX9CPXbu4XN8
